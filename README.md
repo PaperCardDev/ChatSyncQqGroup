@@ -1,0 +1,2 @@
+# ChatSyncQqGroup
+我的世界服务器插件，使用Mirai机器人实现QQ群和服务器聊天消息互通
